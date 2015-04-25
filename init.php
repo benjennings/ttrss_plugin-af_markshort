@@ -1,6 +1,8 @@
 <?php
 
 //
+// Preferences pane from: https://github.com/mbirth/ttrss_plugin-af_feedmod
+// Other inspiration from: https://github.com/atallo/ttrss_fullpost
 // More info about this plugin in: http://protagonist.co.uk
 //
 class af_MarkShort extends Plugin implements IHandler{
